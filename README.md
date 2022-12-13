@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leah-choco, wife and mom to 3 kids. 
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning back-end (Node.js, npm packages)
+- 👀 I’m a certified MERN developer.
+- 🌱 I’m currently learning React.
 
 
 <!---

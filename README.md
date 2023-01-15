@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @leah-choco, wife and mom to 3 kids. 
-- 👀 I’m a certified MERN developer.
+- 👋 Hi, I’m @leah-choco, a certified MERN developer.
+- I'm a wife and mom to 3 kids.
 - 🌱 I’m currently learning React.
 
 

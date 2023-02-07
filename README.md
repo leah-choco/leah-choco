@@ -1,6 +1,6 @@
 * I’m @leah-choco, a certified MERN developer.
 * I'm a wife and mom to 3 kids.
-* I’m currently learning Apollo/GraphQL and Redux.
+* I’m currently learning Tailwind CSS and OpenAI.
 
 
 <!---

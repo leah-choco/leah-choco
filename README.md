@@ -2,7 +2,7 @@
 
 :coffee: Wife and mom to 3 kids, coffee and dark chocolate enthusiast.
 
-:woman_student: Currently learning Tailwind CSS and OpenAI.
+:woman_student: Currently focused on sharpening UI/UX design skills.
 
 My Stack: 
 

@@ -1,10 +1,16 @@
-:dizzy: I’m Leah Choco, a certified MERN developer.
+:dizzy: I’m Leah Choco, a certified Full Stack Web Developer.
 
 :coffee: Wife and mom to 3 kids, coffee and dark chocolate enthusiast.
 
 :woman_student: Currently focused on developing a WordPress site, so green squares will be blank for the next 2 weeks.
 
-My Stack: 
+Foundation: 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+My Advanced Stack: 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

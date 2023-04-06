@@ -2,7 +2,7 @@
 
 :coffee: Wife and mom to 3 kids, coffee and dark chocolate enthusiast.
 
-:woman_student: Currently focused on sharpening UI/UX design skills.
+:woman_student: Currently focused on developing a WordPress site, so green squares will be blank for the next 2 weeks.
 
 My Stack: 
 

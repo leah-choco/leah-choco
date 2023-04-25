@@ -2,7 +2,7 @@
 
 :coffee: Wife and mom to 3 kids, coffee and dark chocolate enthusiast.
 
-:woman_student: Currently focused on developing a WordPress site, so green squares will be blank for the next 2 weeks.
+:woman_student: Currently focused on developing a WordPress site, as well as email templates.
 
 Foundation: 
 
